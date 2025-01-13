@@ -1,4 +1,7 @@
-# 180nm-CMOS-inverter-characterization![schem](https://github.com/user-attachments/assets/906ec6b4-6957-454f-a29a-79cb9fe30b29)
+# 180nm-CMOS-inverter-characterization!
+need same time scale for all these plots
+[schem](https://github.com/user-attachments/assets/906ec6b4-6957-454f-a29a-79cb9fe30b29)
+
 ![vin](https://github.com/user-attachments/assets/d9c5539a-0850-4255-91c5-7d7d70b70de6)
 ![vout](https://github.com/user-attachments/assets/25639d12-8444-4bc9-a3da-43b68c61ac17)
 ![i_leakage](https://github.com/user-attachments/assets/23103a62-6217-4232-a5c4-b82322bf7268)
